@@ -1,0 +1,1 @@
+export type HTMLTag = 'b' | 'i' | 'strong' | 'em' | 'small' | 'mark' | 'del' | 'ins' | 'sub' | 'sup' | 'span';
